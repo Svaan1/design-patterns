@@ -7,8 +7,8 @@ A project aimed to study the concepts and use of Design Patterns, all implemente
 
 ## Creation Patterns
 > These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
-- [ ] Factory Method
-- [ ] Abstract Factory
+- [ ] FurnitureFactory Method
+- [ ] Abstract FurnitureFactory
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
