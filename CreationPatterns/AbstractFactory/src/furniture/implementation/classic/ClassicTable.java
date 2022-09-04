@@ -1,4 +1,8 @@
-public class ImplClassicTable implements Table {
+package furniture.implementation.classic;
+
+import furniture.Table;
+
+public class ClassicTable implements Table {
     @Override
     public boolean hasLegs() {
         return true;

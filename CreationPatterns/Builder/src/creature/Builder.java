@@ -1,3 +1,5 @@
+package creature;
+
 public interface Builder {
     void reset();
     void setNumberOfLegs(int numberOfLegs);

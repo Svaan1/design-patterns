@@ -1,4 +1,8 @@
-public class ImplClassicChair implements Chair {
+package furniture.implementation.classic;
+
+import furniture.Chair;
+
+public class ClassicChair implements Chair {
     @Override
     public boolean hasLegs() {
         return true;

@@ -1,7 +1,11 @@
-public class ImplPuppyBuilder implements Builder {
+package creature.implementation;
+
+import creature.Builder;
+
+public class PuppyBuilder implements Builder {
     private Puppy puppy;
 
-    ImplPuppyBuilder() {
+    public PuppyBuilder() {
         this.reset();
     }
 
